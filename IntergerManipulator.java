@@ -1,6 +1,6 @@
 // Author: Frank Dong
 // Date: Oct 10, 2014
-// Purpose:  a program which will munipulate arrays in order to add digits together.
+// Purpose:  a program which will manipulate arrays in order to add digits together.
 import java.awt.*;
 import hsa.Console;
 
